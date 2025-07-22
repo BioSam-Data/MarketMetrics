@@ -1,5 +1,43 @@
 # MarketMetrics: A Deep Dive into Delivery Delays and E-commerce Efficiency
 
+🔗 **Read the full analysis on Medium**: [How I Uncovered Hidden Delivery Gaps in Brazil's E-Commerce](https://biosam-data.medium.com/how-i-uncovered-hidden-delays-and-delivery-gaps-in-a-multi-million-order-dataset-23290d2e84c0)
+
+---
+
+## 🗺️ Brazilian State Abbreviations 
+For reference in visualizations:
+| Abbreviation | State Name          |
+|--------------|---------------------|
+| AC           | Acre                |
+| AL           | Alagoas             |
+| AM           | Amazonas            |
+| AP           | Amapá               |
+| BA           | Bahia               |
+| CE           | Ceará               |
+| DF           | Distrito Federal    |
+| ES           | Espírito Santo      |
+| GO           | Goiás               |
+| MA           | Maranhão            |
+| MG           | Minas Gerais        |
+| MS           | Mato Grosso do Sul  |
+| MT           | Mato Grosso         |
+| PA           | Pará                |
+| PB           | Paraíba             |
+| PE           | Pernambuco          |
+| PI           | Piauí               |
+| PR           | Paraná              |
+| RJ           | Rio de Janeiro      |
+| RN           | Rio Grande do Norte |
+| RO           | Rondônia            |
+| RR           | Roraima             |
+| RS           | Rio Grande do Sul   |
+| SC           | Santa Catarina      |
+| SE           | Sergipe             |
+| SP           | São Paulo           |
+| TO           | Tocantins           |
+
+---
+
 Welcome to **MarketMetrics**, my data analysis project exploring delivery dynamics within Brazil's booming e-commerce sector. This isn’t just a dashboard dump or code showcase—this is the result of digging deep into raw data to answer a simple but important question:
 
 > **Are online deliveries happening on time? And if not, why?**
